@@ -1,0 +1,48 @@
+Maven
+
+path--
+C:\Users\MD\eclipse-workspace\javaprogramming\Tutorialninja
+
+
+
+maven download
+https://maven.apache.org/download.cgi?
+Download Apache Maven – Maven
+
+git download
+https://git-scm.com/install/windows?
+Git - Install for Windows
+ 
+git registration
+https://github.com/signup?
+
+git email passowrd
+kd876247@gmail.com
+Kaviya@2512
+
+
+
+username------k-a-prog
+
+
+
+githup after download path
+https://github.com/k-a-prog/Tutorialninja.git
+
+
+
+
+commant 
+git init
+git config --global user.name "k-a-prog"
+git config --global user.email"kd876247@gmail.com"
+git add -A
+ 
+git commit -m "commit message"
+git remote add origin "github url"
+ 
+git push origin master
+ 
+ 
+
+ 
